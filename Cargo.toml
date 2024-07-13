@@ -1,0 +1,10 @@
+[package]
+name = "any-order"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+equator = "0.2.2"
+faer = "0.19.1"
+half = "2.4.1"
+rand = "0.8.5"
